@@ -13,7 +13,7 @@ This repository contains the **Industrial Production Predictive Model** trained 
 ### 1. **Clone the Repository**
 First, clone the repository to your local machine:
 ```bash
-git clone https://github.com/YourGitHubUsername/Industrial-Production-Predictive-Model.git
+git clone clone https://github.com/abdulmumeen-abdullahi/Industrial-Production-Predictive-Model-File.git
 cd Industrial-Production-Predictive-Model
 ```
 
@@ -48,6 +48,7 @@ Integrate the model into your real-time data pipeline to predict future industri
 - Ensure to match the model's lag structure when providing input data.
 - For additional customization or support, feel free to contact me at:
   - **Email**: olalekanabdulmumeen3@gmail.com
+  - - **LinkedIn**: [Abdullahi Olalekan Abdulmumeen](https://www.linkedin.com/in/abdulmumeen-abdullahi-olalekan).
 
 ---
 
